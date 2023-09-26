@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\code\\DZ\\Examp012\\Examp012.csproj": {}
+    "D:\\GEEKBRAIN\\code\\DZ C#\\Examp012\\Examp012.csproj": {}
   },
   "projects": {
-    "E:\\code\\DZ\\Examp012\\Examp012.csproj": {
+    "D:\\GEEKBRAIN\\code\\DZ C#\\Examp012\\Examp012.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\code\\DZ\\Examp012\\Examp012.csproj",
+        "projectUniqueName": "D:\\GEEKBRAIN\\code\\DZ C#\\Examp012\\Examp012.csproj",
         "projectName": "Examp012",
-        "projectPath": "E:\\code\\DZ\\Examp012\\Examp012.csproj",
-        "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-        "outputPath": "E:\\code\\DZ\\Examp012\\obj\\",
+        "projectPath": "D:\\GEEKBRAIN\\code\\DZ C#\\Examp012\\Examp012.csproj",
+        "packagesPath": "C:\\Users\\LYNX\\.nuget\\packages\\",
+        "outputPath": "D:\\GEEKBRAIN\\code\\DZ C#\\Examp012\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\LYNX\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
         }
       }
     }

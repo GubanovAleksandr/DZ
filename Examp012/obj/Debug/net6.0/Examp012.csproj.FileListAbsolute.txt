@@ -3,3 +3,8 @@ E:\code\DZ\Examp012\obj\Debug\net6.0\Examp012.GeneratedMSBuildEditorConfig.edito
 E:\code\DZ\Examp012\obj\Debug\net6.0\Examp012.AssemblyInfoInputs.cache
 E:\code\DZ\Examp012\obj\Debug\net6.0\Examp012.AssemblyInfo.cs
 E:\code\DZ\Examp012\obj\Debug\net6.0\Examp012.csproj.CoreCompileInputs.cache
+D:\GEEKBRAIN\code\DZ C#\Examp012\obj\Debug\net6.0\Examp012.csproj.AssemblyReference.cache
+D:\GEEKBRAIN\code\DZ C#\Examp012\obj\Debug\net6.0\Examp012.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAIN\code\DZ C#\Examp012\obj\Debug\net6.0\Examp012.AssemblyInfoInputs.cache
+D:\GEEKBRAIN\code\DZ C#\Examp012\obj\Debug\net6.0\Examp012.AssemblyInfo.cs
+D:\GEEKBRAIN\code\DZ C#\Examp012\obj\Debug\net6.0\Examp012.csproj.CoreCompileInputs.cache
