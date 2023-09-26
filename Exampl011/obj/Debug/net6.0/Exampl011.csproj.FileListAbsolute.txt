@@ -13,3 +13,18 @@ E:\code\DZ\Exampl011\obj\Debug\net6.0\refint\Exampl011.dll
 E:\code\DZ\Exampl011\obj\Debug\net6.0\Exampl011.pdb
 E:\code\DZ\Exampl011\obj\Debug\net6.0\Exampl011.genruntimeconfig.cache
 E:\code\DZ\Exampl011\obj\Debug\net6.0\ref\Exampl011.dll
+D:\GEEKBRAIN\code\DZ C#\Exampl011\bin\Debug\net6.0\Exampl011.exe
+D:\GEEKBRAIN\code\DZ C#\Exampl011\bin\Debug\net6.0\Exampl011.deps.json
+D:\GEEKBRAIN\code\DZ C#\Exampl011\bin\Debug\net6.0\Exampl011.runtimeconfig.json
+D:\GEEKBRAIN\code\DZ C#\Exampl011\bin\Debug\net6.0\Exampl011.dll
+D:\GEEKBRAIN\code\DZ C#\Exampl011\bin\Debug\net6.0\Exampl011.pdb
+D:\GEEKBRAIN\code\DZ C#\Exampl011\obj\Debug\net6.0\Exampl011.csproj.AssemblyReference.cache
+D:\GEEKBRAIN\code\DZ C#\Exampl011\obj\Debug\net6.0\Exampl011.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAIN\code\DZ C#\Exampl011\obj\Debug\net6.0\Exampl011.AssemblyInfoInputs.cache
+D:\GEEKBRAIN\code\DZ C#\Exampl011\obj\Debug\net6.0\Exampl011.AssemblyInfo.cs
+D:\GEEKBRAIN\code\DZ C#\Exampl011\obj\Debug\net6.0\Exampl011.csproj.CoreCompileInputs.cache
+D:\GEEKBRAIN\code\DZ C#\Exampl011\obj\Debug\net6.0\Exampl011.dll
+D:\GEEKBRAIN\code\DZ C#\Exampl011\obj\Debug\net6.0\refint\Exampl011.dll
+D:\GEEKBRAIN\code\DZ C#\Exampl011\obj\Debug\net6.0\Exampl011.pdb
+D:\GEEKBRAIN\code\DZ C#\Exampl011\obj\Debug\net6.0\Exampl011.genruntimeconfig.cache
+D:\GEEKBRAIN\code\DZ C#\Exampl011\obj\Debug\net6.0\ref\Exampl011.dll
