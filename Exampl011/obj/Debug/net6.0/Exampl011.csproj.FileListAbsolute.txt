@@ -1,0 +1,15 @@
+E:\code\DZ\Exampl011\bin\Debug\net6.0\Exampl011.exe
+E:\code\DZ\Exampl011\bin\Debug\net6.0\Exampl011.deps.json
+E:\code\DZ\Exampl011\bin\Debug\net6.0\Exampl011.runtimeconfig.json
+E:\code\DZ\Exampl011\bin\Debug\net6.0\Exampl011.dll
+E:\code\DZ\Exampl011\bin\Debug\net6.0\Exampl011.pdb
+E:\code\DZ\Exampl011\obj\Debug\net6.0\Exampl011.csproj.AssemblyReference.cache
+E:\code\DZ\Exampl011\obj\Debug\net6.0\Exampl011.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\DZ\Exampl011\obj\Debug\net6.0\Exampl011.AssemblyInfoInputs.cache
+E:\code\DZ\Exampl011\obj\Debug\net6.0\Exampl011.AssemblyInfo.cs
+E:\code\DZ\Exampl011\obj\Debug\net6.0\Exampl011.csproj.CoreCompileInputs.cache
+E:\code\DZ\Exampl011\obj\Debug\net6.0\Exampl011.dll
+E:\code\DZ\Exampl011\obj\Debug\net6.0\refint\Exampl011.dll
+E:\code\DZ\Exampl011\obj\Debug\net6.0\Exampl011.pdb
+E:\code\DZ\Exampl011\obj\Debug\net6.0\Exampl011.genruntimeconfig.cache
+E:\code\DZ\Exampl011\obj\Debug\net6.0\ref\Exampl011.dll
