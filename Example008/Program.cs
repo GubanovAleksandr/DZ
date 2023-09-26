@@ -16,11 +16,11 @@ int a3 = 12;
 int b3 = 13;
 int c3 = 14;
 
-int max1 = Max(a1, b1, c1);
-int max2 = Max(a2, b2, c2);
-int max3 = Max(a3, b3, c3);
+// int max1 = Max(a1, b1, c1);
+// int max2 = Max(a2, b2, c2);
+// int max3 = Max(a3, b3, c3);
 
-int max = Max(max1, max2, max3);
+// int max = Max(max1, max2, max3);
 
 // int max = a1;
 // if (a1 > max) max = a1;
@@ -32,5 +32,6 @@ int max = Max(max1, max2, max3);
 // if (a3 > max) max = a3;
 // if (b3 > max) max = b3;
 // if (c3 > max) max = c3;
+int max = Max(Max(a1, b1, c1), Max(a2, b2, c2), Max(a3, b3,c3));
 
 Console.WriteLine(max);
