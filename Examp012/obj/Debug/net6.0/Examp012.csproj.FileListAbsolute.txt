@@ -8,3 +8,13 @@ D:\GEEKBRAIN\code\DZ C#\Examp012\obj\Debug\net6.0\Examp012.GeneratedMSBuildEdito
 D:\GEEKBRAIN\code\DZ C#\Examp012\obj\Debug\net6.0\Examp012.AssemblyInfoInputs.cache
 D:\GEEKBRAIN\code\DZ C#\Examp012\obj\Debug\net6.0\Examp012.AssemblyInfo.cs
 D:\GEEKBRAIN\code\DZ C#\Examp012\obj\Debug\net6.0\Examp012.csproj.CoreCompileInputs.cache
+D:\GEEKBRAIN\code\DZ C#\Examp012\bin\Debug\net6.0\Examp012.exe
+D:\GEEKBRAIN\code\DZ C#\Examp012\bin\Debug\net6.0\Examp012.deps.json
+D:\GEEKBRAIN\code\DZ C#\Examp012\bin\Debug\net6.0\Examp012.runtimeconfig.json
+D:\GEEKBRAIN\code\DZ C#\Examp012\bin\Debug\net6.0\Examp012.dll
+D:\GEEKBRAIN\code\DZ C#\Examp012\bin\Debug\net6.0\Examp012.pdb
+D:\GEEKBRAIN\code\DZ C#\Examp012\obj\Debug\net6.0\Examp012.dll
+D:\GEEKBRAIN\code\DZ C#\Examp012\obj\Debug\net6.0\refint\Examp012.dll
+D:\GEEKBRAIN\code\DZ C#\Examp012\obj\Debug\net6.0\Examp012.pdb
+D:\GEEKBRAIN\code\DZ C#\Examp012\obj\Debug\net6.0\Examp012.genruntimeconfig.cache
+D:\GEEKBRAIN\code\DZ C#\Examp012\obj\Debug\net6.0\ref\Examp012.dll
