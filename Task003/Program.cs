@@ -1,7 +1,4 @@
-﻿internal class Program
-{
-    private static void Main(string[] args)
-    {
+﻿
         Console.WriteLine("ВВедите день недели:");
         string weekDay = Console.ReadLine();
         if (weekDay == "1")
@@ -21,5 +18,4 @@
 
         else
             Console.WriteLine("Некорректный ввод");
-    }
-}
+    
