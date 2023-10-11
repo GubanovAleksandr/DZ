@@ -4,6 +4,8 @@
 // [1 2 3 4 5] -> [5 4 3 2 1]
 // [6 7 3 6] -> [6 3 7 6]
 
+using System;
+
 int[] CreateArrayRndInt(int size, int min, int max)
 {
     int[] arr = new int[size]; //длинна массива
@@ -22,9 +24,9 @@ void PrintArray(int[] arr)
     for (int i = 0; i < arr.Length; i++)
     {
         if (i < arr.Length - 1) Console.Write($"{arr[i]}, "); // выдаем если последний элемент массива то соскобками иначе без
-        else Console.WriteLine($"{arr[i]}");
+        else Console.Write($"{arr[i]}");
     }
-    Console.Write("]");
+    Console.WriteLine("]");
 }
 
 void ReverseArray(int[] arr)
@@ -38,10 +40,10 @@ void ReverseArray(int[] arr)
     }
 }
 
-
-int[] array = CreateArrayRndInt(12, -9, 9);
+int[] array = CreateArrayRndInt(5, 1, 9);
 
 PrintArray(array);
 ReverseArray(array);
-Console.Write(" ");
+PrintArray(array);
+Array.Reverse(array);
 PrintArray(array);
